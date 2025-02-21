@@ -1,0 +1,2069 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-01-11T15:32:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/65294302",
+        "amenity": "cinema",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.4012331,
+              41.5538962
+            ],
+            [
+              2.4011675,
+              41.5539639
+            ],
+            [
+              2.4010229,
+              41.5538639
+            ],
+            [
+              2.4011009,
+              41.553813
+            ],
+            [
+              2.4011007,
+              41.5538169
+            ],
+            [
+              2.4012331,
+              41.5538962
+            ]
+          ]
+        ]
+      },
+      "id": "way/65294302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125697822",
+        "addr:city": "Granollers",
+        "addr:housenumber": "4",
+        "addr:postcode": "08400",
+        "addr:street": "Carrer del Montseny",
+        "amenity": "cinema",
+        "building:levels": "2",
+        "building:part": "yes",
+        "contact:email": "granollers@aki.es",
+        "contact:fax": "+34 93 8404939",
+        "contact:phone": "+34 93 8491086",
+        "contact:website": "https://www.aki.es",
+        "name": "Ocine Granollers - El Nord"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.3016431,
+              41.6099851
+            ],
+            [
+              2.3019145,
+              41.609477
+            ],
+            [
+              2.3024613,
+              41.6096407
+            ],
+            [
+              2.3021908,
+              41.6101476
+            ],
+            [
+              2.3016431,
+              41.6099851
+            ]
+          ]
+        ]
+      },
+      "id": "way/125697822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132535607",
+        "amenity": "cinema",
+        "building": "public",
+        "building:levels": "2",
+        "building:levels:underground": "2",
+        "name": "Cinema Bosque",
+        "name:ca": "Cinema Bosque",
+        "wheelchair": "no",
+        "wikidata": "Q17588344",
+        "wikimedia_commons": "Category:Cinemes Bosque",
+        "wikipedia": "ca:Cinema Bosque"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1513906,
+              41.4017259
+            ],
+            [
+              2.1513571,
+              41.4017049
+            ],
+            [
+              2.151282,
+              41.4016577
+            ],
+            [
+              2.1512066,
+              41.4016105
+            ],
+            [
+              2.1512441,
+              41.401548
+            ],
+            [
+              2.1512687,
+              41.4014973
+            ],
+            [
+              2.1514051,
+              41.4013757
+            ],
+            [
+              2.151431,
+              41.4013527
+            ],
+            [
+              2.1514814,
+              41.4013076
+            ],
+            [
+              2.1515025,
+              41.401289
+            ],
+            [
+              2.1515272,
+              41.4012669
+            ],
+            [
+              2.1515433,
+              41.4012525
+            ],
+            [
+              2.1517638,
+              41.4013932
+            ],
+            [
+              2.151997,
+              41.4015408
+            ],
+            [
+              2.1519718,
+              41.4015629
+            ],
+            [
+              2.1519324,
+              41.4015975
+            ],
+            [
+              2.15189,
+              41.4016346
+            ],
+            [
+              2.1518395,
+              41.401679
+            ],
+            [
+              2.1517963,
+              41.4017167
+            ],
+            [
+              2.1517675,
+              41.401742
+            ],
+            [
+              2.1517402,
+              41.4017659
+            ],
+            [
+              2.1517315,
+              41.4017735
+            ],
+            [
+              2.1517245,
+              41.4017795
+            ],
+            [
+              2.1517115,
+              41.4017908
+            ],
+            [
+              2.1516596,
+              41.401758
+            ],
+            [
+              2.1516521,
+              41.4017687
+            ],
+            [
+              2.1515443,
+              41.4018222
+            ],
+            [
+              2.1514498,
+              41.401763
+            ],
+            [
+              2.1514141,
+              41.4017407
+            ],
+            [
+              2.1513906,
+              41.4017259
+            ]
+          ]
+        ]
+      },
+      "id": "way/132535607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147085468",
+        "amenity": "cinema",
+        "architect": "Mateo architects",
+        "building": "public",
+        "building:levels": "5",
+        "building:levels:underground": "2",
+        "contact:facebook": "https://es-es.facebook.com/filmotecadecatalunya/",
+        "contact:instagram": "https://www.instagram.com/filmotecacat/",
+        "contact:twitter": "https://twitter.com/filmotecacat",
+        "contact:vimeo": "https://vimeo.com/filmotecacat",
+        "contact:youtube": "https://www.youtube.com/user/filmotecacat",
+        "name": "Filmoteca de Catalunya",
+        "name:ca": "Filmoteca de Catalunya",
+        "name:es": "Filmoteca de Cataluña",
+        "operator": "Generalitat de Catalunya",
+        "website": "https://www.filmoteca.cat/",
+        "wikidata": "Q4894418",
+        "wikimedia_commons": "Category:Filmoteca de Catalunya",
+        "wikipedia": "ca:Filmoteca de Catalunya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1708707,
+              41.37873
+            ],
+            [
+              2.1708257,
+              41.3787669
+            ],
+            [
+              2.170641,
+              41.3786387
+            ],
+            [
+              2.1706856,
+              41.3786023
+            ],
+            [
+              2.1707364,
+              41.3785607
+            ],
+            [
+              2.1710563,
+              41.3782992
+            ],
+            [
+              2.1712395,
+              41.3784274
+            ],
+            [
+              2.1711622,
+              41.3784918
+            ],
+            [
+              2.1711112,
+              41.3785335
+            ],
+            [
+              2.1710634,
+              41.3785726
+            ],
+            [
+              2.1709231,
+              41.3786872
+            ],
+            [
+              2.1708707,
+              41.37873
+            ]
+          ]
+        ]
+      },
+      "id": "way/147085468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186349753",
+        "amenity": "cinema",
+        "building": "apartments",
+        "name": "Cinemes Imperial",
+        "name:ca": "Cinemes Imperial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1121908,
+              41.5411921
+            ],
+            [
+              2.1122857,
+              41.540999
+            ],
+            [
+              2.1123204,
+              41.5410079
+            ],
+            [
+              2.112377,
+              41.5408912
+            ],
+            [
+              2.1124228,
+              41.5409037
+            ],
+            [
+              2.1124634,
+              41.5409149
+            ],
+            [
+              2.1125086,
+              41.5409271
+            ],
+            [
+              2.1125521,
+              41.540939
+            ],
+            [
+              2.11259,
+              41.5409497
+            ],
+            [
+              2.1126399,
+              41.5409631
+            ],
+            [
+              2.1126815,
+              41.5409746
+            ],
+            [
+              2.1128109,
+              41.5410103
+            ],
+            [
+              2.11266,
+              41.5413196
+            ],
+            [
+              2.1121908,
+              41.5411921
+            ]
+          ]
+        ]
+      },
+      "id": "way/186349753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249402942",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "135, 139",
+        "addr:postcode": "08015",
+        "addr:street": "Carrer de Floridablanca",
+        "amenity": "cinema",
+        "brand": "Renoir",
+        "brand:wikidata": "Q21077391",
+        "brand:wikipedia": "ca:Cines Renoir",
+        "building": "retail",
+        "height": "25",
+        "name": "Renoir Floridablanca",
+        "note": "One of the few cinemas that doesn't play dubbed films.",
+        "phone": "+34 91 542 27 02",
+        "source": "Ajuntament de Barcelona - CartoBCN (@2013-11-10);http://www.cinesrenoir.com/",
+        "website": "https://www.cinesrenoir.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1626757,
+              41.3817547
+            ],
+            [
+              2.1624133,
+              41.3819546
+            ],
+            [
+              2.1621921,
+              41.3821231
+            ],
+            [
+              2.1621261,
+              41.3820737
+            ],
+            [
+              2.1620433,
+              41.3820117
+            ],
+            [
+              2.1619783,
+              41.3819633
+            ],
+            [
+              2.1624664,
+              41.3815976
+            ],
+            [
+              2.1626757,
+              41.3817547
+            ]
+          ]
+        ]
+      },
+      "id": "way/249402942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294184829",
+        "addr:city": "El Prat de Llobregat",
+        "addr:housenumber": "111",
+        "addr:postcode": "08820",
+        "addr:street": "Avinguda Verge de Montserrat",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema Capri",
+        "phone": "+34 933795943",
+        "website": "https://www.cinecaprielprat.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0953941,
+              41.3257983
+            ],
+            [
+              2.0951668,
+              41.3257077
+            ],
+            [
+              2.09535,
+              41.3254484
+            ],
+            [
+              2.0955774,
+              41.325539
+            ],
+            [
+              2.0953941,
+              41.3257983
+            ]
+          ]
+        ]
+      },
+      "id": "way/294184829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309688614",
+        "addr:city": "Vic",
+        "addr:housenumber": "22",
+        "addr:postcode": "08500",
+        "addr:street": "Carrer de Jacint Verdaguer",
+        "amenity": "cinema",
+        "building": "apartments",
+        "name": "el Vigatà"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.2514363,
+              41.9313803
+            ],
+            [
+              2.2514081,
+              41.9312736
+            ],
+            [
+              2.2513772,
+              41.9312606
+            ],
+            [
+              2.2513089,
+              41.9309474
+            ],
+            [
+              2.2513571,
+              41.9307325
+            ],
+            [
+              2.2514249,
+              41.9307223
+            ],
+            [
+              2.2514717,
+              41.9307153
+            ],
+            [
+              2.2515484,
+              41.9309986
+            ],
+            [
+              2.2516112,
+              41.9312299
+            ],
+            [
+              2.2515872,
+              41.9312399
+            ],
+            [
+              2.2516107,
+              41.9313316
+            ],
+            [
+              2.2514363,
+              41.9313803
+            ]
+          ]
+        ]
+      },
+      "id": "way/309688614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374524637",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "el Retiro",
+        "wheelchair": "no",
+        "wikidata": "Q37462254"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.810648,
+              41.2364693
+            ],
+            [
+              1.8110017,
+              41.2363714
+            ],
+            [
+              1.8110218,
+              41.2364275
+            ],
+            [
+              1.8110693,
+              41.2365042
+            ],
+            [
+              1.8110223,
+              41.2365134
+            ],
+            [
+              1.8110495,
+              41.2365203
+            ],
+            [
+              1.8110395,
+              41.2365531
+            ],
+            [
+              1.8110143,
+              41.2366362
+            ],
+            [
+              1.8109829,
+              41.2366315
+            ],
+            [
+              1.8109852,
+              41.2367163
+            ],
+            [
+              1.810971,
+              41.2367671
+            ],
+            [
+              1.8109298,
+              41.2368007
+            ],
+            [
+              1.8109455,
+              41.2368211
+            ],
+            [
+              1.8109528,
+              41.2368212
+            ],
+            [
+              1.8109384,
+              41.236869
+            ],
+            [
+              1.8109331,
+              41.2368687
+            ],
+            [
+              1.81092,
+              41.2369052
+            ],
+            [
+              1.8106666,
+              41.2368592
+            ],
+            [
+              1.8106905,
+              41.2367945
+            ],
+            [
+              1.810659,
+              41.2367886
+            ],
+            [
+              1.8106379,
+              41.2368552
+            ],
+            [
+              1.8105777,
+              41.2368434
+            ],
+            [
+              1.8105788,
+              41.2368378
+            ],
+            [
+              1.8105798,
+              41.2368327
+            ],
+            [
+              1.8105999,
+              41.2367306
+            ],
+            [
+              1.810659,
+              41.2367373
+            ],
+            [
+              1.8106568,
+              41.2367537
+            ],
+            [
+              1.8106969,
+              41.2367609
+            ],
+            [
+              1.8107117,
+              41.236714
+            ],
+            [
+              1.8107268,
+              41.2366674
+            ],
+            [
+              1.8107406,
+              41.2366491
+            ],
+            [
+              1.8106897,
+              41.2366402
+            ],
+            [
+              1.8106926,
+              41.2366315
+            ],
+            [
+              1.8106195,
+              41.2366185
+            ],
+            [
+              1.810648,
+              41.2364693
+            ]
+          ]
+        ]
+      },
+      "id": "way/374524637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374525116",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Casino Prado",
+        "wikidata": "Q37462282"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.810365,
+              41.2379437
+            ],
+            [
+              1.810579,
+              41.2380186
+            ],
+            [
+              1.8107835,
+              41.2380703
+            ],
+            [
+              1.8107216,
+              41.2382107
+            ],
+            [
+              1.810292,
+              41.2380721
+            ],
+            [
+              1.8103233,
+              41.238017
+            ],
+            [
+              1.810365,
+              41.2379437
+            ]
+          ]
+        ]
+      },
+      "id": "way/374525116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/460088649",
+        "amenity": "cinema",
+        "building": "commercial",
+        "email": "info@cinemessantboi.com",
+        "name": "Cinemes Can Castellet",
+        "name:ca": "Cinemes Can Castellet",
+        "phone": "+34 93 661 61 14",
+        "website": "http://www.cinemessantboi.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0402396,
+              41.3455855
+            ],
+            [
+              2.0402187,
+              41.3455151
+            ],
+            [
+              2.0401767,
+              41.3453739
+            ],
+            [
+              2.04033,
+              41.3453481
+            ],
+            [
+              2.04035,
+              41.3453447
+            ],
+            [
+              2.0403761,
+              41.3453403
+            ],
+            [
+              2.0403961,
+              41.3453369
+            ],
+            [
+              2.040547,
+              41.3453115
+            ],
+            [
+              2.0405556,
+              41.3453603
+            ],
+            [
+              2.0405605,
+              41.3453622
+            ],
+            [
+              2.0405659,
+              41.3453642
+            ],
+            [
+              2.04059,
+              41.3453619
+            ],
+            [
+              2.0406022,
+              41.3453779
+            ],
+            [
+              2.0407304,
+              41.3454264
+            ],
+            [
+              2.040717,
+              41.3454466
+            ],
+            [
+              2.0407517,
+              41.3454598
+            ],
+            [
+              2.0407296,
+              41.3454931
+            ],
+            [
+              2.0407062,
+              41.3455281
+            ],
+            [
+              2.0406492,
+              41.345614
+            ],
+            [
+              2.0404707,
+              41.3455465
+            ],
+            [
+              2.0404692,
+              41.3455468
+            ],
+            [
+              2.040459,
+              41.3455485
+            ],
+            [
+              2.040393,
+              41.3455597
+            ],
+            [
+              2.0402396,
+              41.3455855
+            ]
+          ]
+        ]
+      },
+      "id": "way/460088649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/755111479",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "l'Esbarjo",
+        "wikidata": "Q17601593",
+        "wikipedia": "ca:L'Esbarjo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.3565552,
+              41.6396289
+            ],
+            [
+              2.3565532,
+              41.6398231
+            ],
+            [
+              2.3563417,
+              41.6397965
+            ],
+            [
+              2.3560587,
+              41.6397412
+            ],
+            [
+              2.3560956,
+              41.639619
+            ],
+            [
+              2.3563802,
+              41.6396617
+            ],
+            [
+              2.3564005,
+              41.6396066
+            ],
+            [
+              2.3565552,
+              41.6396289
+            ]
+          ]
+        ]
+      },
+      "id": "way/755111479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1084635508",
+        "amenity": "cinema",
+        "level": "1",
+        "name": "Yelmo Abrera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9025208,
+              41.5065598
+            ],
+            [
+              1.903028,
+              41.506802
+            ],
+            [
+              1.9028338,
+              41.50703
+            ],
+            [
+              1.9027215,
+              41.5069749
+            ],
+            [
+              1.9023255,
+              41.5067886
+            ],
+            [
+              1.9023615,
+              41.5067469
+            ],
+            [
+              1.9024051,
+              41.5066957
+            ],
+            [
+              1.9024536,
+              41.5066387
+            ],
+            [
+              1.9025208,
+              41.5065598
+            ]
+          ]
+        ]
+      },
+      "id": "way/1084635508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145619954",
+        "addr:city": "El Masnou",
+        "addr:housenumber": "7",
+        "addr:postcode": "08320",
+        "addr:street": "Carrer del Dr. J. Agell",
+        "amenity": "cinema",
+        "building": "yes",
+        "building:colour": "#bb8877",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.3198112,
+              41.4800287
+            ],
+            [
+              2.3199545,
+              41.4798041
+            ],
+            [
+              2.3198678,
+              41.4797702
+            ],
+            [
+              2.3199866,
+              41.4795624
+            ],
+            [
+              2.3202544,
+              41.479626
+            ],
+            [
+              2.320162,
+              41.4797744
+            ],
+            [
+              2.3202393,
+              41.4798027
+            ],
+            [
+              2.3201809,
+              41.4799482
+            ],
+            [
+              2.3200882,
+              41.4801105
+            ],
+            [
+              2.3198112,
+              41.4800287
+            ]
+          ]
+        ]
+      },
+      "id": "way/1145619954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/82781680",
+        "addr:housenumber": "32",
+        "addr:postcode": "08012",
+        "addr:street": "Carrer de Verdi",
+        "amenity": "cinema",
+        "check_date": "2023-05-01",
+        "contact:instagram": "cinemesverdibarcelona",
+        "name": "Cines Verdi Barcelona",
+        "phone": "+34 932 38 79 90",
+        "website": "https://www.cines-verdi.com/barcelona/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1568811,
+          41.4040146
+        ]
+      },
+      "id": "node/82781680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/82781682",
+        "addr:housenumber": "49",
+        "addr:postcode": "08012",
+        "addr:street": "Carrer de Torrijos",
+        "amenity": "cinema",
+        "check_date": "2023-11-05",
+        "contact:instagram": "cinemesverdibarcelona",
+        "name": "Verdi Park Barcelona",
+        "opening_hours:signed": "no",
+        "website": "https://www.cines-verdi.com/barcelona/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1576461,
+          41.4043891
+        ]
+      },
+      "id": "node/82781682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312413565",
+        "amenity": "cinema",
+        "brand": "Cinesa",
+        "brand:wikidata": "Q20732115",
+        "name": "CINESA 3D Parc Vallès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0248621,
+          41.5469548
+        ]
+      },
+      "id": "node/312413565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439756329",
+        "amenity": "cinema",
+        "cinema:3D": "yes",
+        "contact:website": "http://www.cinemesmontcada.com/#",
+        "name": "Cinemes Montcada",
+        "name:ca": "Cinemes Montcada",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1805748,
+          41.4948266
+        ]
+      },
+      "id": "node/439756329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/481122006",
+        "amenity": "cinema",
+        "check_date": "2024-01-20",
+        "name": "CINESA Porta",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1805915,
+          41.4354074
+        ]
+      },
+      "id": "node/481122006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/493162984",
+        "addr:city": "Badalona",
+        "amenity": "cinema",
+        "name": "OCine Badalona",
+        "opening_hours": "Mo-Th 15:30-23:00; Fr 15:30-03:00; Sa 11:15-14:30,15:15-03:00; Su 11:15-14:30,15:15-01:00",
+        "screen": "13",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2304798,
+          41.4437406
+        ]
+      },
+      "id": "node/493162984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496060481",
+        "addr:city": "Barcelona",
+        "addr:full": "Carrer Santa Fe De Nou Mèxic sn",
+        "addr:postcode": "08017",
+        "amenity": "cinema",
+        "name": "Cinesa Diagonal",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1363579,
+          41.393745
+        ]
+      },
+      "id": "node/496060481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/673051320",
+        "addr:housenumber": "208",
+        "addr:postcode": "08018",
+        "addr:street": "Avinguda Diagonal",
+        "amenity": "cinema",
+        "contact:email": "info@grupbalana.com",
+        "contact:phone": "+34 902424243",
+        "contact:website": "http://www.grupbalana.com",
+        "name": "Glòries Multicines",
+        "name:ca": "Glòries Multicines",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1928801,
+          41.4053714
+        ]
+      },
+      "id": "node/673051320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/704066083",
+        "alt_name": "Cine Yelmo",
+        "amenity": "cinema",
+        "check_date": "2023-10-28",
+        "name": "Comedia",
+        "name:ca": "Comèdia",
+        "name:es": "Comedia",
+        "wikidata": "Q17597433",
+        "wikimedia_commons": "Category:Cinema Comèdia",
+        "wikipedia": "ca:Cinema Comèdia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1675802,
+          41.3893894
+        ]
+      },
+      "id": "node/704066083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/845733521",
+        "addr:city": "Sant Cugat del Vallès",
+        "addr:postcode": "08172",
+        "addr:street": "Avinguda Pla del Vinyet",
+        "amenity": "cinema",
+        "name": "Cinemes Sant Cugat",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0901165,
+          41.4695039
+        ]
+      },
+      "id": "node/845733521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904962713",
+        "amenity": "cinema",
+        "name": "Yelmo Cines Castelldefels (Anec blau)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9858022,
+          41.2820671
+        ]
+      },
+      "id": "node/904962713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1224403399",
+        "amenity": "cinema",
+        "name": "Gran Sarria Multicines",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1340836,
+          41.3945822
+        ]
+      },
+      "id": "node/1224403399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1249055436",
+        "amenity": "cinema",
+        "name": "Cine Eix Macià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0970293,
+          41.5561883
+        ]
+      },
+      "id": "node/1249055436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1271866536",
+        "amenity": "cinema",
+        "name": "OCINE Sant Celoni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4885283,
+          41.6815096
+        ]
+      },
+      "id": "node/1271866536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1272889114",
+        "amenity": "cinema",
+        "name": "Cinemes Full HD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0790663,
+          41.3472395
+        ]
+      },
+      "id": "node/1272889114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336509549",
+        "amenity": "cinema",
+        "brand": "Cinesa",
+        "brand:wikidata": "Q20732115",
+        "name": "Cinesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0079271,
+          41.2950121
+        ]
+      },
+      "id": "node/1336509549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686124386",
+        "amenity": "cinema",
+        "name": "Cinema Bages Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8469001,
+          41.7241046
+        ]
+      },
+      "id": "node/1686124386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1800561624",
+        "addr:city": "Terrassa, Barcelona",
+        "addr:housenumber": "9",
+        "addr:postcode": "08221",
+        "addr:street": "Carrer de Sant Pere",
+        "amenity": "cinema",
+        "name": "Cinema Catalunya",
+        "screen": "2",
+        "website": "https://cinemacatalunya.cat/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0109837,
+          41.5632225
+        ]
+      },
+      "id": "node/1800561624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1951810406",
+        "addr:city": "Barcelona",
+        "addr:country": "ES",
+        "addr:housenumber": "175",
+        "addr:postcode": "08009",
+        "addr:street": "Carrer de Girona",
+        "amenity": "cinema",
+        "check_date": "2023-08-17",
+        "name": "Cinemes Girona",
+        "name:ca": "Cinemes Girona",
+        "wheelchair": "yes",
+        "wikidata": "Q108881020",
+        "wikimedia_commons": "Category:Cinemes Girona",
+        "wikipedia": "ca:Cinemes Girona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1646019,
+          41.3996133
+        ]
+      },
+      "id": "node/1951810406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2038029548",
+        "amenity": "cinema",
+        "name": "Sala de Cinema. ETC",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1046527,
+          41.5027948
+        ]
+      },
+      "id": "node/2038029548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395665922",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "508-510",
+        "addr:postcode": "08006",
+        "addr:street": "Avinguda Diagonal",
+        "amenity": "cinema",
+        "contact:email": "info@bolichecinemes.cat",
+        "contact:phone": "+34 93 6243 127",
+        "contact:website": "https://www.bolichecinemes.cat/",
+        "name": "Cinemes Boliche",
+        "wikidata": "Q11913820",
+        "wikipedia": "ca:Boliche Cinemes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1536309,
+          41.3952918
+        ]
+      },
+      "id": "node/2395665922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696299447",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "422 424",
+        "addr:postcode": "08022",
+        "addr:street": "Carrer de Balmes",
+        "amenity": "cinema",
+        "check_date": "2023-04-25",
+        "name": "Balmes Multicines",
+        "name:ca": "Balmes Multicines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1386401,
+          41.4071913
+        ]
+      },
+      "id": "node/2696299447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3077230183",
+        "addr:housenumber": "4",
+        "addr:street": "Carrer del Montseny",
+        "alt_name": "Ocine Granollers",
+        "amenity": "cinema",
+        "name": "Ocine - El Nord",
+        "operator": "ocine",
+        "phone": "+34 93 8409306",
+        "website": "https://www.ocinegranollers.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3021682,
+          41.6098501
+        ]
+      },
+      "id": "node/3077230183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3221967827",
+        "addr:city": "Vic",
+        "addr:housenumber": "9",
+        "addr:postcode": "08500",
+        "addr:street": "Carrer de la Llotja",
+        "amenity": "cinema",
+        "name": "multicines El Sucre",
+        "phone": "+34 93 883 21 08",
+        "website": "http://www.sucrecines.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2463998,
+          41.9254893
+        ]
+      },
+      "id": "node/3221967827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3601249497",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "168",
+        "addr:postcode": "08025",
+        "addr:street": "Carrer de Sant Antoni Maria Claret",
+        "amenity": "cinema",
+        "cinema:3D": "no",
+        "drive_in": "no",
+        "email": "info@phenomena-experience.com",
+        "name": "Phenomena",
+        "phone": "+34932527743",
+        "website": "https://www.phenomena-experience.com/",
+        "wikidata": "Q43019884",
+        "wikipedia": "ca:Phenomena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1718056,
+          41.4090866
+        ]
+      },
+      "id": "node/3601249497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3913663865",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "205",
+        "addr:postcode": "08037",
+        "addr:street": "Carrer de Bailèn",
+        "alt_name": "Cinemes Texas",
+        "amenity": "cinema",
+        "bar": "yes",
+        "contact:instagram": "https://www.instagram.com/espaitexasbcn/",
+        "contact:twitter": "EspaiTexasBcn",
+        "name": "Espai Texas",
+        "name:ca": "Espai Texas",
+        "old_name": "Cinemes Texas",
+        "phone": "+34 933487748",
+        "theatre": "yes",
+        "website": "https://espaitexas.cat/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1636355,
+          41.4020472
+        ]
+      },
+      "id": "node/3913663865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3928572822",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "53",
+        "addr:postcode": "08014",
+        "addr:street": "Carrer de Béjar",
+        "amenity": "cinema",
+        "name": "Zumzeig",
+        "opening_hours": "16:00-0:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1450266,
+          41.3773203
+        ]
+      },
+      "id": "node/3928572822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4296677234",
+        "addr:housenumber": "15",
+        "addr:postcode": "08800",
+        "addr:street": "Avinguda del Coll d'en Ferran",
+        "amenity": "cinema",
+        "amenity:2015-07-09": "cinema",
+        "name": "Odeon Multicines",
+        "name:2015-07-09": "Centre d'Oci Vilalauren",
+        "name:2017": "Garraf Cinemes",
+        "name:2020": "Centre d'Oci Vilalauren",
+        "source": "Opendata Ajuntament de Vilanova i la Geltrú",
+        "survey:date": "2022-05-06",
+        "survey:date:2015": "2015-03-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7271383,
+          41.2415975
+        ]
+      },
+      "id": "node/4296677234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326495653",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "5",
+        "addr:place": "Galeries Maldà",
+        "addr:postcode": "08002",
+        "addr:street": "Carrer del Pi",
+        "amenity": "cinema",
+        "name": "Cinema Maldà",
+        "opening_hours": "Mo-Su 14:00-23:30",
+        "screen": "1",
+        "website": "https://www.cinemamalda.com/",
+        "wikidata": "Q11913829",
+        "wikipedia": "ca:Cinema Maldà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1739003,
+          41.3832363
+        ]
+      },
+      "id": "node/4326495653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551543970",
+        "amenity": "cinema",
+        "name": "Arenas de Barcelona",
+        "wikidata": "Q11913814",
+        "wikipedia": "ca:Cine Arenas (Barcelona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1490436,
+          41.3763433
+        ]
+      },
+      "id": "node/4551543970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4709933970",
+        "addr:city": "L'Hospitalet de Llobregat",
+        "addr:country": "ES",
+        "addr:housenumber": "75",
+        "addr:postcode": "08908",
+        "addr:street": "Avinguda de la Granvia de l'Hospitalet",
+        "amenity": "cinema",
+        "level": "1",
+        "name": "Filmax Gran Via"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1283735,
+          41.3583166
+        ]
+      },
+      "id": "node/4709933970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776903513",
+        "amenity": "cinema",
+        "name": "Aribau Multicines",
+        "name:ca": "Aribau Multicines",
+        "wikidata": "Q30097460",
+        "wikipedia": "ca:Cine Aribau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1625633,
+          41.3861016
+        ]
+      },
+      "id": "node/4776903513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903629906",
+        "amenity": "cinema",
+        "name": "Espai Plana de l'Om",
+        "name:ca": "Espai Plana de l'Om"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8245366,
+          41.7238213
+        ]
+      },
+      "id": "node/4903629906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732027096",
+        "amenity": "cinema",
+        "name": "Cinema 5D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7287016,
+          41.6373318
+        ]
+      },
+      "id": "node/5732027096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807191718",
+        "amenity": "cinema",
+        "name": "YELMO CINES 3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1370817,
+          41.5084894
+        ]
+      },
+      "id": "node/5807191718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810830032",
+        "addr:housenumber": "21",
+        "addr:street": "Carrer de Joan Batllori",
+        "amenity": "cinema",
+        "email": "cinebaix@cinebaix.com",
+        "name": "CineBaix",
+        "opening_hours": "Fr-Mo 17:00-23:59",
+        "payment:cash": "yes",
+        "phone": "+34 936661859",
+        "website": "http://www.cinebaix.cat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0448757,
+          41.3819167
+        ]
+      },
+      "id": "node/5810830032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5834511036",
+        "amenity": "cinema",
+        "name": "CINESA 3D La Maquinista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1984101,
+          41.4393801
+        ]
+      },
+      "id": "node/5834511036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6354283298",
+        "amenity": "cinema",
+        "name": "Cine Alhambra",
+        "wikidata": "Q37459557",
+        "wikipedia": "ca:Cinema Alhambra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2855504,
+          41.686061
+        ]
+      },
+      "id": "node/6354283298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7453554126",
+        "addr:city": "El Masnou",
+        "addr:housenumber": "7",
+        "addr:postcode": "08320",
+        "addr:street": "Carrer del Dr. J. Agell",
+        "amenity": "cinema",
+        "contact:instagram": "https://www.instagram.com/cinemalacalandria/",
+        "email": "info@cinemalacalandria.com",
+        "facebook": "https://www.facebook.com/cinelacalandria/",
+        "name": "Cinema La Calandra",
+        "opening_hours": "Mo-Su 17:00-22:00",
+        "phone": "+34 93 555 43 01",
+        "screen": "1",
+        "website": "https://www.cinemalacalandria.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3199901,
+          41.4799319
+        ]
+      },
+      "id": "node/7453554126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340537193",
+        "amenity": "cinema",
+        "name": "super Cines Puente Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6973896,
+          10.1559168
+        ]
+      },
+      "id": "node/8340537193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8848608418",
+        "addr:city": "Sant Cugat del Vallès",
+        "addr:housenumber": "2-14",
+        "addr:postcode": "08174",
+        "addr:street": "Avinguda de la Via Augusta",
+        "amenity": "cinema",
+        "brand": "Yelmo",
+        "brand:wikidata": "Q21030996",
+        "brand:wikipedia": "fr:Yelmo Cines",
+        "level": "1",
+        "name": "Yelmo",
+        "name:en": "Cine Yelmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0537817,
+          41.4832299
+        ]
+      },
+      "id": "node/8848608418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9936987119",
+        "amenity": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1194501,
+          41.4244728
+        ]
+      },
+      "id": "node/9936987119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10555166001",
+        "addr:housenumber": "2B",
+        "addr:street": "Rambla Principal",
+        "amenity": "cinema",
+        "contact:email": "escenavilanova@vilanova.cat",
+        "contact:phone": "+34 938140000",
+        "contact:website": "https://www.escenavilanova.cat",
+        "name": "Teatre Principal",
+        "name:ca": "Teatre Principal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7238624,
+          41.2254419
+        ]
+      },
+      "id": "node/10555166001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10555166003",
+        "addr:housenumber": "41",
+        "addr:street": "Carrer de Sant Gervasi",
+        "amenity": "cinema",
+        "contact:email": "circolcatolic@hotmail.com",
+        "contact:phone": "+34 938937900",
+        "contact:website": "https://www.circolcatolic.com",
+        "name": "Teatre Círcol Catòlic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7253839,
+          41.2246088
+        ]
+      },
+      "id": "node/10555166003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11266526927",
+        "amenity": "cinema",
+        "brand": "Cinesa",
+        "brand:wikidata": "Q20732115",
+        "level": "1",
+        "level:ref": "3",
+        "name": "Cinesa",
+        "website": "https://www.cinesa.es/cines/diagonal-mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2165527,
+          41.4102196
+        ]
+      },
+      "id": "node/11266526927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11283788778",
+        "addr:housenumber": "11",
+        "addr:postcode": "08301",
+        "addr:street": "Carrer Nou",
+        "amenity": "cinema",
+        "name": "Foment Mataroní",
+        "phone": "+34 937903450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4446684,
+          41.5409331
+        ]
+      },
+      "id": "node/11283788778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11518461369",
+        "amenity": "cinema",
+        "name": "Cinema Edison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2823976,
+          41.6073563
+        ]
+      },
+      "id": "node/11518461369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12123709401",
+        "amenity": "cinema",
+        "name": "Sala Mozart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6603291,
+          41.6141803
+        ]
+      },
+      "id": "node/12123709401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12382806336",
+        "amenity": "cinema",
+        "brand": "Kinepolis",
+        "brand:wikidata": "Q1741993",
+        "name": "Kinepolis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4334141,
+          41.5550521
+        ]
+      },
+      "id": "node/12382806336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12382910247",
+        "amenity": "cinema",
+        "brand": "Kinepolis",
+        "brand:wikidata": "Q1741993",
+        "name": "Kinepolis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4334141,
+          41.5550521
+        ]
+      },
+      "id": "node/12382910247"
+    }
+  ]
+}

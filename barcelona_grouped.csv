@@ -1,0 +1,317 @@
+district,neighborhood,zip_code,counts
+Bellvitge,Bellvitge,8902,9
+Bellvitge,Bellvitge,8907,59
+Bellvitge,Bellvitge,8991,6
+Can Serra - Pubilla Cases,Can Serra,8096,2
+Can Serra - Pubilla Cases,Can Serra,8901,4
+Can Serra - Pubilla Cases,Can Serra,8906,22
+Can Serra - Pubilla Cases,Pubilla Cases,8905,15
+Can Serra - Pubilla Cases,Pubilla Cases,8906,290
+Can Serra - Pubilla Cases,Pubilla Cases,8950,6
+Casagemes - Canyadó,Canyadó,8911,1
+Casagemes - Canyadó,Casagemes,8911,4
+Casagemes - Canyadó,Casagemes,8915,1
+Casagemes - Canyadó,Manresa,8911,7
+Centre,Carretera del Mig,8901,2
+Centre,Carretera del Mig,8907,1
+Centre,Carretera del Mig,8940,1
+Centre,Carretera del Mig,8991,4
+Centre,Centre,8801,33
+Centre,Centre,8901,45
+Centre,Centre,8940,4
+Centre,Sanfeliu,8096,6
+Centre,Sanfeliu,8801,1
+Centre,Sant Josep,8901,50
+Centre,Sant Josep,8902,1
+Centre,Sant Josep,8904,12
+Centre,Sant Josep,8905,15
+Centre,Sant Josep,8907,1
+Centre,Sant Josep,8991,57
+Ciutat Vella,El Gòtic,8001,9
+Ciutat Vella,El Gòtic,8002,106
+Ciutat Vella,El Gòtic,8003,6
+Ciutat Vella,El Gòtic,8007,1
+Ciutat Vella,El Gòtic,8010,3
+Ciutat Vella,El Raval,8001,60
+Ciutat Vella,El Raval,8002,15
+Ciutat Vella,El Raval,8004,1
+Ciutat Vella,El Raval,8011,3
+Ciutat Vella,El Raval,8015,2
+Ciutat Vella,La Barceloneta,8003,31
+Ciutat Vella,La Barceloneta,8039,2
+Ciutat Vella,Sant Pere - Santa Caterina i la Ribera,8002,7
+Ciutat Vella,Sant Pere - Santa Caterina i la Ribera,8003,77
+Ciutat Vella,Sant Pere - Santa Caterina i la Ribera,8010,10
+Ciutat Vella,Sant Pere - Santa Caterina i la Ribera,8018,2
+Collblanc,Collblanc,8028,4
+Collblanc,Collblanc,8094,30
+Collblanc,Collblanc,8903,7
+Collblanc,Collblanc,8904,181
+Collblanc,Collblanc,8905,12
+Eixample,El Fort Pienc,8003,2
+Eixample,El Fort Pienc,8010,3
+Eixample,El Fort Pienc,8013,22
+Eixample,El Fort Pienc,8018,3
+Eixample,L'Antiga Esquerra de l'Eixample,8006,2
+Eixample,L'Antiga Esquerra de l'Eixample,8007,11
+Eixample,L'Antiga Esquerra de l'Eixample,8008,5
+Eixample,L'Antiga Esquerra de l'Eixample,8011,47
+Eixample,L'Antiga Esquerra de l'Eixample,8013,2
+Eixample,L'Antiga Esquerra de l'Eixample,8021,3
+Eixample,L'Antiga Esquerra de l'Eixample,8025,1
+Eixample,L'Antiga Esquerra de l'Eixample,8029,6
+Eixample,L'Antiga Esquerra de l'Eixample,8036,38
+Eixample,La Dreta de l'Eixample,8001,1
+Eixample,La Dreta de l'Eixample,8002,2
+Eixample,La Dreta de l'Eixample,8003,1
+Eixample,La Dreta de l'Eixample,8006,1
+Eixample,La Dreta de l'Eixample,8007,65
+Eixample,La Dreta de l'Eixample,8008,44
+Eixample,La Dreta de l'Eixample,8009,67
+Eixample,La Dreta de l'Eixample,8010,77
+Eixample,La Dreta de l'Eixample,8011,1
+Eixample,La Dreta de l'Eixample,8013,26
+Eixample,La Dreta de l'Eixample,8025,1
+Eixample,La Dreta de l'Eixample,8036,2
+Eixample,La Dreta de l'Eixample,8037,33
+Eixample,La Nova Esquerra de l'Eixample,8011,1
+Eixample,La Nova Esquerra de l'Eixample,8014,2
+Eixample,La Nova Esquerra de l'Eixample,8015,17
+Eixample,La Nova Esquerra de l'Eixample,8029,32
+Eixample,La Nova Esquerra de l'Eixample,8036,5
+Eixample,La Sagrada Família,8013,22
+Eixample,La Sagrada Família,8025,41
+Eixample,La Sagrada Família,8026,2
+Eixample,Sant Antoni,8001,1
+Eixample,Sant Antoni,8004,2
+Eixample,Sant Antoni,8011,9
+Eixample,Sant Antoni,8015,27
+Gorg  - Progrés,Congrés,8910,1
+Gorg  - Progrés,Congrés,8914,3
+Gorg  - Progrés,Congrés,8918,1
+Gorg  - Progrés,Gorg,8910,3
+Gorg  - Progrés,Gorg,8912,4
+Gorg  - Progrés,Gorg,8918,1
+Gorg  - Progrés,Progrés-Pep Ventura,8912,12
+Gorg  - Progrés,Progrés-Pep Ventura,8917,1
+Granvia L-H,Gran Via L-H,8902,1
+Granvia L-H,Gran Via L-H,8908,11
+Gràcia,El Camp d'En Grassot i Gràcia Nova,8024,42
+Gràcia,El Camp d'En Grassot i Gràcia Nova,8025,80
+Gràcia,El Camp d'En Grassot i Gràcia Nova,8037,29
+Gràcia,El Coll,8023,23
+Gràcia,El Coll,8032,2
+Gràcia,El Coll,8035,1
+Gràcia,La Salut,8012,1
+Gràcia,La Salut,8023,26
+Gràcia,La Salut,8024,48
+Gràcia,Vallcarca i els Penitents,8012,1
+Gràcia,Vallcarca i els Penitents,8023,43
+Gràcia,Vallcarca i els Penitents,8035,8
+Gràcia,Vila de Gràcia,8006,38
+Gràcia,Vila de Gràcia,8008,29
+Gràcia,Vila de Gràcia,8012,155
+Gràcia,Vila de Gràcia,8023,2
+Gràcia,Vila de Gràcia,8024,54
+Gràcia,Vila de Gràcia,8025,1
+Gràcia,Vila de Gràcia,8037,33
+Horta Guinardó,Can Baró,8024,45
+Horta Guinardó,Can Baró,8025,1
+Horta Guinardó,Can Baró,8032,18
+Horta Guinardó,El Baix Guinardó,8024,12
+Horta Guinardó,El Baix Guinardó,8025,59
+Horta Guinardó,El Baix Guinardó,8041,1
+Horta Guinardó,El Carmel,8023,1
+Horta Guinardó,El Carmel,8024,4
+Horta Guinardó,El Carmel,8031,1
+Horta Guinardó,El Carmel,8032,155
+Horta Guinardó,El Carmel,8035,14
+Horta Guinardó,El Guinardó,8016,2
+Horta Guinardó,El Guinardó,8024,2
+Horta Guinardó,El Guinardó,8025,1
+Horta Guinardó,El Guinardó,8026,1
+Horta Guinardó,El Guinardó,8027,1
+Horta Guinardó,El Guinardó,8031,1
+Horta Guinardó,El Guinardó,8032,4
+Horta Guinardó,El Guinardó,8041,110
+Horta Guinardó,Horta,8031,67
+Horta Guinardó,Horta,8032,3
+Horta Guinardó,La Font d'En Fargues,8031,1
+Horta Guinardó,La Font d'En Fargues,8032,15
+Horta Guinardó,La Font d'En Fargues,8041,2
+Horta Guinardó,La Teixonera,8023,1
+Horta Guinardó,La Teixonera,8035,49
+Horta Guinardó,La Vall d'Hebron - La Clota,8035,2
+Horta Guinardó,Sant Genís Dels Agudells - Montbau,8035,49
+La Florida - Les Planes,La Florida,8901,2
+La Florida - Les Planes,La Florida,8904,37
+La Florida - Les Planes,La Florida,8905,218
+La Florida - Les Planes,La Florida,8906,5
+La Florida - Les Planes,Les Planes,8901,1
+La Florida - Les Planes,Les Planes,8904,1
+La Florida - Les Planes,Les Planes,8905,21
+La Florida - Les Planes,Les Planes,8906,4
+La Florida - Les Planes,Les Planes,8991,2
+La Salut - Lloreda - Sistrells,La Pau,8917,1
+La Salut - Lloreda - Sistrells,La Salut,8914,19
+La Salut - Lloreda - Sistrells,Lloreda,8917,2
+La Salut - Lloreda - Sistrells,Sistrells,8917,2
+La Torrasa,La Torrasa,8028,2
+La Torrasa,La Torrasa,8094,18
+La Torrasa,La Torrasa,8902,1
+La Torrasa,La Torrasa,8903,30
+La Torrasa,La Torrasa,8904,7
+Les Corts,La Maternitat i Sant Ramon,8022,1
+Les Corts,La Maternitat i Sant Ramon,8028,44
+Les Corts,La Maternitat i Sant Ramon,8034,2
+Les Corts,La Maternitat i Sant Ramon,8094,12
+Les Corts,La Maternitat i Sant Ramon,8903,1
+Les Corts,La Maternitat i Sant Ramon,8904,37
+Les Corts,La Maternitat i Sant Ramon,8905,3
+Les Corts,Les Corts,8014,20
+Les Corts,Les Corts,8017,1
+Les Corts,Les Corts,8021,32
+Les Corts,Les Corts,8022,1
+Les Corts,Les Corts,8028,54
+Les Corts,Les Corts,8029,65
+Les Corts,Les Corts,8034,1
+Les Corts,Pedralbes,8017,4
+Les Corts,Pedralbes,8028,3
+Les Corts,Pedralbes,8034,245
+Les Corts,Pedralbes,8904,6
+Les Corts,Pedralbes,8906,2
+Llefià - Sant Roc - Artigues,Llefià,8913,14
+Llefià - Sant Roc - Artigues,Llefià,8914,7
+Llefià - Sant Roc - Artigues,Llefià,8918,3
+Llefià - Sant Roc - Artigues,Llefià,8923,1
+Llefià - Sant Roc - Artigues,Sant Roc,8913,1
+Llefià - Sant Roc - Artigues,Sant Roc,8918,7
+Montigalà -Sant Crist,Montigalà,8917,15
+Montigalà -Sant Crist,Puigfred,8914,11
+Montigalà -Sant Crist,Sant Crist,8912,1
+Montigalà -Sant Crist,Sant Crist,8917,6
+Nou Barris,Can Peguera - El Turó de la Peira,8016,6
+Nou Barris,Can Peguera - El Turó de la Peira,8031,114
+Nou Barris,Can Peguera - El Turó de la Peira,8042,1
+Nou Barris,Canyelles,8031,2
+Nou Barris,Canyelles,8035,1
+Nou Barris,Ciutat Meridiana - Torre Baró - Vallbona,8033,126
+Nou Barris,Ciutat Meridiana - Torre Baró - Vallbona,8042,23
+Nou Barris,Ciutat Meridiana - Torre Baró - Vallbona,8110,6
+Nou Barris,La Guineueta,8016,1
+Nou Barris,La Guineueta,8031,1
+Nou Barris,La Guineueta,8042,1
+Nou Barris,La Prosperitat,8016,14
+Nou Barris,La Prosperitat,8030,1
+Nou Barris,La Prosperitat,8033,12
+Nou Barris,La Prosperitat,8042,35
+Nou Barris,La Trinitat Nova,8033,29
+Nou Barris,La Trinitat Nova,8042,6
+Nou Barris,Les Roquetes,8042,89
+Nou Barris,Porta,8016,30
+Nou Barris,Verdun,8016,4
+Nou Barris,Verdun,8042,56
+Nou Barris,Vilapicina i la Torre Llobeta,8016,8
+Nou Barris,Vilapicina i la Torre Llobeta,8031,3
+Nou Barris,Vilapicina i la Torre Llobeta,8032,1
+Sant Andreu,Baró de Viver,8922,1
+Sant Andreu,El Bon Pastor,8030,2
+Sant Andreu,El Congrés i els Indians,8016,1
+Sant Andreu,El Congrés i els Indians,8027,3
+Sant Andreu,El Congrés i els Indians,8041,4
+Sant Andreu,La Sagrera,8016,1
+Sant Andreu,La Sagrera,8027,70
+Sant Andreu,La Trinitat Vella,8033,5
+Sant Andreu,Navas,8026,1
+Sant Andreu,Navas,8027,13
+Sant Andreu,Navas,8041,1
+Sant Andreu,Sant Andreu,8016,17
+Sant Andreu,Sant Andreu,8027,3
+Sant Andreu,Sant Andreu,8030,263
+Sant Andreu,Sant Andreu,8033,8
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,8019,54
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,8071,9
+Sant Martí,El Besòs,8019,135
+Sant Martí,El Besòs,8020,5
+Sant Martí,El Besòs,8930,12
+Sant Martí,El Camp de l'Arpa del Clot,8013,1
+Sant Martí,El Camp de l'Arpa del Clot,8018,1
+Sant Martí,El Camp de l'Arpa del Clot,8025,1
+Sant Martí,El Camp de l'Arpa del Clot,8026,73
+Sant Martí,El Camp de l'Arpa del Clot,8027,2
+Sant Martí,El Camp de l'Arpa del Clot,8041,12
+Sant Martí,El Clot,8013,1
+Sant Martí,El Clot,8018,17
+Sant Martí,El Clot,8026,49
+Sant Martí,El Clot,8027,4
+Sant Martí,El Parc i la Llacuna del Poblenou,8003,16
+Sant Martí,El Parc i la Llacuna del Poblenou,8005,2
+Sant Martí,El Parc i la Llacuna del Poblenou,8018,24
+Sant Martí,El Poblenou,8005,56
+Sant Martí,El Poblenou,8018,4
+Sant Martí,El Poblenou,8019,6
+Sant Martí,El Poblenou,8071,7
+Sant Martí,La Verneda i la Pau,5030,1
+Sant Martí,La Verneda i la Pau,8019,1
+Sant Martí,La Verneda i la Pau,8020,96
+Sant Martí,La Verneda i la Pau,8930,1
+Sant Martí,La Vila Olímpica del Poblenou,8003,3
+Sant Martí,La Vila Olímpica del Poblenou,8005,18
+Sant Martí,La Vila Olímpica del Poblenou,8018,1
+Sant Martí,Provençals del Poblenou,8005,1
+Sant Martí,Provençals del Poblenou,8018,6
+Sant Martí,Provençals del Poblenou,8019,25
+Sant Martí,Provençals del Poblenou,8020,27
+Sant Martí,Sant Martí de Provençals,8018,2
+Sant Martí,Sant Martí de Provençals,8020,41
+Sant Martí,Sant Martí de Provençals,8026,3
+Sant Martí,Sant Martí de Provençals,8027,2
+Santa Eulàlia,Santa Eulàlia,8901,1
+Santa Eulàlia,Santa Eulàlia,8902,101
+Santa Eulàlia,Santa Eulàlia,8903,3
+Santa Eulàlia,Santa Eulàlia,8908,6
+Santa Eulàlia,Santa Eulàlia,8991,6
+Sants-Montjuïc,El Poble Sec - Parc de Montjuïc,8001,32
+Sants-Montjuïc,El Poble Sec - Parc de Montjuïc,8004,287
+Sants-Montjuïc,El Poble Sec - Parc de Montjuïc,8015,28
+Sants-Montjuïc,El Poble Sec - Parc de Montjuïc,8038,5
+Sants-Montjuïc,Hostafrancs,8014,9
+Sants-Montjuïc,La Bordeta,8014,8
+Sants-Montjuïc,La Bordeta,8038,1
+Sants-Montjuïc,La Bordeta,8902,3
+Sants-Montjuïc,La Font de la Guatlla,8014,2
+Sants-Montjuïc,La Marina del Port,8038,11
+Sants-Montjuïc,La Marina del Prat Vermell,8038,5
+Sants-Montjuïc,Sants,8014,100
+Sants-Montjuïc,Sants,8028,61
+Sants-Montjuïc,Sants,8029,14
+Sants-Montjuïc,Sants,8903,1
+Sants-Montjuïc,Sants - Badal,8014,2
+Sants-Montjuïc,Sants - Badal,8028,70
+Sants-Montjuïc,Sants - Badal,8094,13
+Sants-Montjuïc,Sants - Badal,8903,30
+Sarrià-Sant Gervasi,El Putxet i el Farró,8006,8
+Sarrià-Sant Gervasi,El Putxet i el Farró,8021,2
+Sarrià-Sant Gervasi,El Putxet i el Farró,8022,10
+Sarrià-Sant Gervasi,El Putxet i el Farró,8023,15
+Sarrià-Sant Gervasi,Les Tres Torres,8017,3
+Sarrià-Sant Gervasi,Les Tres Torres,8021,6
+Sarrià-Sant Gervasi,Les Tres Torres,8022,28
+Sarrià-Sant Gervasi,Les Tres Torres,8034,9
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8006,32
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8008,1
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8012,1
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8021,107
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8022,17
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8029,3
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,8036,6
+Sarrià-Sant Gervasi,Sant Gervasi - La Bonanova,8017,2
+Sarrià-Sant Gervasi,Sant Gervasi - La Bonanova,8022,50
+Sarrià-Sant Gervasi,Sant Gervasi - La Bonanova,8023,3
+Sarrià-Sant Gervasi,Sant Gervasi - La Bonanova,8035,1
+Sarrià-Sant Gervasi,Sarrià,8017,82
+Sarrià-Sant Gervasi,Sarrià,8021,1
+Sarrià-Sant Gervasi,Sarrià,8022,3
+Sarrià-Sant Gervasi,Sarrià,8034,171
+Sarrià-Sant Gervasi,Vallvidrera - El Tibidabo i les Planes,8017,56
+Sarrià-Sant Gervasi,Vallvidrera - El Tibidabo i les Planes,8196,22
